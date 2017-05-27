@@ -9,3 +9,19 @@ Some support functions come from the MATLAB toolbox of [James LeSage](http://www
 <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_DEcrime.png" width="425"/> <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_bar3modelprobs.png" width="425"/> 
 
 <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_histloglik.png" width="425"/> <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_lambda.png" width="425"/> 
+
+
+Harrison, D. and Rubinfeld, D.L. (1978) Hedonic housing prices and the demand for clean air. Journal
+of Environmental Economics and Management, 5 (1): 81–102. URL http://EconPapers.repec.
+org/RePEc:eee:jeeman:v:5:y:1978:i:1:p:81-102.
+
+Kostov, P. (2010) Model boosting for spatial weighting matrix selection in spatial lag models.
+Environment and Planning B: Planning and Design, 37 (3): 533–549. URL http://EconPapers.
+repec.org/RePEc:pio:envirb:v:37:y:2010:i:3:p:533-549.
+
+LeSage, J. and Pace, R.K. (2014) The biggest myth in spatial econometrics. Econometrics, 2 (4): 1–33.
+URL http://EconPapers.repec.org/RePEc:gam:jecnmx:v:2:y:2014:i:4:p:217-249:d:43830.
+
+Pace, R.K. and Gilley, O. (1997) Using the spatial configuration of the data to improve estimation. The
+Journal of Real Estate Finance and Economics, 14 (3): 333–340. URL http://dx.doi.org/10.
+1023/A:1007762613901.
