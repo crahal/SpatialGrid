@@ -6,10 +6,14 @@ The Boston dataset augmented by Pace and Gilley (1997) can be found [here](https
 
 Some support functions come from the MATLAB toolbox of [James LeSage](http://www.spatial-econometrics.com/).
 
+
+### Figures 
+
 <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_DEcrime.png" width="425"/> <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_bar3modelprobs.png" width="425"/> 
 
 <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_histloglik.png" width="425"/> <img src="https://github.com/crahal/SpatialGrid/blob/master/Figure_lambda.png" width="425"/> 
 
+### References
 
 Harrison, D. and Rubinfeld, D.L. (1978) Hedonic housing prices and the demand for clean air. Journal
 of Environmental Economics and Management, 5 (1): 81–102. 
